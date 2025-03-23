@@ -1,3 +1,5 @@
-Example
+﻿Example
 Change
 Внесли изменения из интерфейса github
+
+Тренируемся работать с stash
